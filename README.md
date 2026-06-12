@@ -108,7 +108,7 @@ Examples:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Student-Opportunity-Tracker.git
+git clone https://github.com/ShauryaKochhar/Student-Opportunity-Tracker
 cd Student-Opportunity-Tracker
 ```
 
